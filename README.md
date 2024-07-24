@@ -29,7 +29,7 @@ To build this project, run
 ```shell script
 git clone https://github.com/munimahendrareddy/url-shortener.git
 cd url-shortener
-gradle clean build
+mvn clean install
 ```
 
 
